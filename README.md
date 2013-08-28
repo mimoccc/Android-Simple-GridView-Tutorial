@@ -9,4 +9,4 @@ Visit our tutorial link @ http://www.androidbegin.com/tutorial/android-simple-gr
 
 **Screenshot**
 
-![Android Simple GridView Tutorial ScreenShot](http://www.androidbegin.com/wp-content/uploads/2012/09/Screenshot-GridView.png)
+![Android Simple GridView Tutorial ScreenShot](http://www.androidbegin.com/wp-content/uploads/2012/09/GridView-Tutorial-ScreenShot.png)
